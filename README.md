@@ -2,9 +2,9 @@
 
 
 
-<<<<<<< HEAD
-- feature-A
-=======
-   -fix-B
 
->>>>>>> fix-B
+- feature-A
+- fix-B
+- faeture-C
+
+
